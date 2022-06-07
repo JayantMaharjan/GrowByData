@@ -33,11 +33,13 @@ def parse_json(file, fc):
     if len(df_contents) == 0:
         for i in range(len(header) - 1):
             title_list.append(header[i])
-            datas.append(np.nan)
+            # datas.append(np.nan)
+            datas.append('NA')
             indexlist.append(str(fc) + '.' + str(1) + '.' + str(i + 1))
         final_df = pd.DataFrame(datas)
     else:
         for i in range(var1):
+
             data[i] = df_contents[df_contents['y'] == unique_y[i]]['text'].reset_index(drop=True)
 
         df_horizontal = pd.DataFrame(data).reset_index(drop=True)
