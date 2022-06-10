@@ -1,0 +1,50 @@
+search_query,id,missedIngredientCount,type,aisle,usedIngredientCount,title,name,unit,amount
+apple flour,715381,3,missed_ingredients,Sweet Snacks;Baking,0,Creamy Lime Pie Square Bites,graham cracker crumbs,cup,1.0
+apple flour,715381,3,missed_ingredients,Produce,0,Creamy Lime Pie Square Bites,lime zest,drop,2.0
+apple flour,715381,3,missed_ingredients,"Milk, Eggs, Other Dairy",0,Creamy Lime Pie Square Bites,unsalted butter,Tbsp,5.0
+apple flour,639637,3,missed_ingredients,"Milk, Eggs, Other Dairy",0,Classic scones,milk,cup,0.75
+apple flour,639637,3,missed_ingredients,"Nut butters, Jams, and Honey",0,Classic scones,strawberry jam,servings,4.0
+apple flour,639637,3,missed_ingredients,"Milk, Eggs, Other Dairy",0,Classic scones,unsalted butter,g,50.0
+apple flour,639779,3,missed_ingredients,Baking,0,Coconut Macaroons With Chocolate Drizzle,sweetened coconut,cups,5.5
+apple flour,639779,3,missed_ingredients,Baking,0,Coconut Macaroons With Chocolate Drizzle,vanilla extract,teaspoons,2.0
+apple flour,639779,3,missed_ingredients,Baking,0,Coconut Macaroons With Chocolate Drizzle,sweetened condensed milk,oz,14.0
+apple flour,643809,3,missed_ingredients,Cheese,0,Fried String Cheese Sticks,string cheese,,4.0
+apple flour,643809,3,missed_ingredients,"Milk, Eggs, Other Dairy",0,Fried String Cheese Sticks,egg,tablespoon,1.0
+apple flour,643809,3,missed_ingredients,"Bakery/Bread;Oil, Vinegar, Salad Dressing;Baking",0,Fried String Cheese Sticks,italian seasoned bread crumbs,cup,0.5
+apple flour,652952,3,missed_ingredients,"Milk, Eggs, Other Dairy",0,Napoleon - A Creamy Puff Pastry Cake,eggs,,6.0
+apple flour,652952,3,missed_ingredients,"Milk, Eggs, Other Dairy",0,Napoleon - A Creamy Puff Pastry Cake,milk,gallon,0.25
+apple flour,652952,3,missed_ingredients,Refrigerated;Frozen,0,Napoleon - A Creamy Puff Pastry Cake,puff pastry,sheets,2.0
+yogurt orange,716422,2,missed_ingredients,Produce,1,Caramelized Onion Dip,caramelized onions,c,0.6666667
+yogurt orange,716422,2,missed_ingredients,Produce,1,Caramelized Onion Dip,fresh chives,T,2.0
+yogurt orange,716422,2,used_ingredients,"Milk, Eggs, Other Dairy",1,Caramelized Onion Dip,plain greek yogurt,c,1.0
+yogurt orange,641732,2,missed_ingredients,"Milk, Eggs, Other Dairy",1,Dulce De Leche Swirled Amaretto Frozen Yogurt,cream,tablespoons,2.0
+yogurt orange,641732,2,missed_ingredients,"Nut butters, Jams, and Honey;Ethnic Foods;Frozen;Baking",1,Dulce De Leche Swirled Amaretto Frozen Yogurt,dulce de leche,tablespoons,2.0
+yogurt orange,641732,2,used_ingredients,"Milk, Eggs, Other Dairy",1,Dulce De Leche Swirled Amaretto Frozen Yogurt,vanilla yogurt,tub,1.0
+yogurt orange,665823,2,missed_ingredients,Produce,1,Melt Your Heart,blueberries,Handful,1.0
+yogurt orange,665823,2,missed_ingredients,Produce,1,Melt Your Heart,strawberries,,10.0
+yogurt orange,665823,2,used_ingredients,"Milk, Eggs, Other Dairy",1,Melt Your Heart,plain yogurt,milliliters,200.0
+yogurt orange,662665,3,missed_ingredients,Produce,1,Swiss Bircher Muesli,apple,,1.0
+yogurt orange,662665,3,missed_ingredients,"Milk, Eggs, Other Dairy",1,Swiss Bircher Muesli,milk,cup,0.5
+yogurt orange,662665,3,missed_ingredients,Cereal,1,Swiss Bircher Muesli,muesli,cup,0.5
+yogurt orange,662665,3,used_ingredients,"Milk, Eggs, Other Dairy",1,Swiss Bircher Muesli,skim vanilla yoghurt,tablespoons,3.0
+yogurt orange,673422,3,missed_ingredients,"Nut butters, Jams, and Honey",1,Peanut Butter Yogurt Snack Dip,creamy peanut butter,cup,0.6666667
+yogurt orange,673422,3,missed_ingredients,Spices and Seasonings,1,Peanut Butter Yogurt Snack Dip,ground cinnamon,teaspoon,0.25
+yogurt orange,673422,3,missed_ingredients,"Nut butters, Jams, and Honey",1,Peanut Butter Yogurt Snack Dip,honey,teaspoon,1.0
+yogurt orange,673422,3,used_ingredients,"Milk, Eggs, Other Dairy",1,Peanut Butter Yogurt Snack Dip,vanilla yogurt,cup,0.5
+butter,639637,2,missed_ingredients,"Milk, Eggs, Other Dairy",1,Classic scones,milk,cup,0.75
+butter,639637,2,missed_ingredients,"Nut butters, Jams, and Honey",1,Classic scones,strawberry jam,servings,4.0
+butter,639637,2,used_ingredients,"Milk, Eggs, Other Dairy",1,Classic scones,unsalted butter,g,50.0
+butter,1077392,2,missed_ingredients,Produce,1,How to Cook Sweet Potatoes on the Grill,sweet potatoes,medium,3.0
+butter,1077392,2,missed_ingredients,Spices and Seasonings,1,How to Cook Sweet Potatoes on the Grill,cinnamon,tbsp,3.0
+butter,1077392,2,used_ingredients,"Milk, Eggs, Other Dairy",1,How to Cook Sweet Potatoes on the Grill,butter,tbsp,4.0
+butter,1697653,2,missed_ingredients,Produce,1,Butter Baked Onion - Pure Hygge Food,onion,,1.0
+butter,1697653,2,missed_ingredients,Condiments,1,Butter Baked Onion - Pure Hygge Food,bouillon cube,,0.5
+butter,1697653,2,used_ingredients,"Milk, Eggs, Other Dairy",1,Butter Baked Onion - Pure Hygge Food,butter,Tbsp,1.0
+butter,651658,3,missed_ingredients,Meat,1,Mexican Mummy Dogs,beef hot dogs,,8.0
+butter,651658,3,missed_ingredients,Ethnic Foods,1,Mexican Mummy Dogs,burrito size tortillas,extra large,2.0
+butter,651658,3,missed_ingredients,Canned and Jarred;Ethnic Foods,1,Mexican Mummy Dogs,refried beans,cup,0.5
+butter,651658,3,used_ingredients,"Milk, Eggs, Other Dairy",1,Mexican Mummy Dogs,butter,tablespoons,2.0
+butter,664275,3,missed_ingredients,Baking,1,Valentines Day Crispy Treats,marshmallows,ounces,16.0
+butter,664275,3,missed_ingredients,Tea and Coffee,1,Valentines Day Crispy Treats,malt drink mix,,1.0
+butter,664275,3,missed_ingredients,Cereal,1,Valentines Day Crispy Treats,crispy rice cereal,cups,9.0
+butter,664275,3,used_ingredients,"Milk, Eggs, Other Dairy",1,Valentines Day Crispy Treats,butter,tablespoons,5.0
